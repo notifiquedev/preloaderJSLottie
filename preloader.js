@@ -38,7 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://notifiquedev.github.io/preloaderJSLottie/Animation - 1701288991326.json',
+        path: 'https://notifiquedev.github.io/preloaderJSLottie/carregando.json',
     });
 }
 
